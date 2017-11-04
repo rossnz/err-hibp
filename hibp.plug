@@ -1,0 +1,10 @@
+[Core]
+name = Hibp
+module = hibp
+
+[Documentation]
+description = Query the HaveIBeenPwned database from Errbot
+
+[Python]
+version = 3
+
